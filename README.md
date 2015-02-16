@@ -14,7 +14,7 @@ Option handling/forwarding is non-existent. Don't even try. It won't work.
 
 ## Rakefile
 
-An example Rakefile is provided, as a demo.  It echoes back any target it is caled on.
+An example Rakefile is provided, as a demo.  It echoes back any target it is called on.
 
 ## License
 
